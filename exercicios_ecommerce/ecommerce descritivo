@@ -1,0 +1,25 @@
+Prática MySQL – E-commerce
+
+Este exercício simula um banco de dados de um sistema de e-commerce, com foco em treinar conceitos básicos de SQL como:
+
+Criação de tabelas (CREATE TABLE)
+
+Inserção de dados (INSERT INTO)
+
+Relacionamento entre tabelas
+
+Consultas com SELECT, JOIN, WHERE e GROUP BY
+
+Tabelas simuladas (exemplo):
+
+clientes
+
+produtos
+
+pedidos
+
+itens_pedido
+
+O objetivo é praticar a modelagem e manipulação de dados relacionados a compras online.
+
+

@@ -1,0 +1,24 @@
+# Projeto: Ordem de Serviço com MySQL
+
+<<<<<<< HEAD
+📁 Este projeto foi desenvolvido durante as aulas. 
+=======
+📁 Este projeto foi desenvolvido durante as aulas
+>>>>>>> 2b0ce63 (Adiciona prática de ecommerce em MySQL)
+- O objetivo foi criar um banco de dados relacional voltado para o controle de ordens de serviço.
+
+## 💡 Funcionalidades
+- Criação de tabelas: clientes, serviços, ordens, status
+- Definição de chaves primárias e estrangeiras
+- Relacionamentos entre as tabelas
+
+## 🛠️ Ferramentas
+- MySQL Workbench (.mwb)
+- SQL (estrutura e modelagem)
+
+## 📂 Como usar
+1. Baixe o arquivo `.mwb`
+2. Abra no MySQL Workbench
+3. Explore o modelo e gere o script SQL se desejar executar no banco
+
+
